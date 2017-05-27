@@ -1,1 +1,1 @@
-# Marks the objecs on the video or stream
+Marks the objects if they move and uses kalman filter to get more accurate results. We have tested this project on pisces. We have used opencv module for image processing and python as the programming language.
